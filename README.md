@@ -1,5 +1,3 @@
-Certainly! Here's a README for your code:
-
 # Breast Cancer Classification using Logistic Regression
 
 ## Introduction
@@ -29,7 +27,7 @@ pip install scikit-learn pandas numpy
 4. Run the script using the following command:
 
 ```bash
-python breast_cancer_classification.py
+python logisticreg.py
 ```
 
 ## Description
@@ -57,4 +55,4 @@ This code is provided under the [MIT License](LICENSE).
 
 Feel free to modify and use the code for your own projects. If you find it helpful, please consider giving it a star!
 
-For any questions or issues, please open an [issue](https://github.com/your-username/breast-cancer-classification/issues) in the repository.
+For any questions or issues, please open an [issue](https://github.com/SVatghub/Breast-Cancer-detection-using-Logistic-Regression/issues) in the repository.
